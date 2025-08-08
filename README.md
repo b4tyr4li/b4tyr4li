@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Batyrali 👋
 
-<!--
-**b4tyr4li/b4tyr4li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics student (Big Data & Coding)** focused on Python, SQL, and Power BI. I enjoy turning messy datasets into clear insights and dashboards.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: SQL exploration & Python EDA projects
+- 📊 Tools: Python (Pandas, NumPy, Plotly), SQL (MySQL/SQLite), Power BI, Excel (VBA)
+- 🧠 Interests: predictive modeling, BI storytelling, automation
+- 🎯 Goal: Data Analytics Internship in Warsaw (or remote) by Sep 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- [Global Water Consumption Analysis](https://github.com/b4tyr4li/water-consumption-analysis)
+- [SQL Data Exploration](https://github.com/b4tyr4li/sql-data-exploration)
+- [Python EDA Template](https://github.com/b4tyr4li/python-eda-template)
+
+📫 Reach me: batyrbazar04@gmail.com · [LinkedIn](https://www.linkedin.com/in/batyrali-bazar-a28678333)
