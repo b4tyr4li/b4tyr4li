@@ -9,7 +9,7 @@
 
 **Featured projects**
 - [Global Water Consumption Analysis](https://github.com/b4tyr4li/water-consumption-analysis)
--  [Northwind SQL + Power BI Dashboard](https://github.com/YOUR_USERNAME/sql-data-exploration)
-- [Python EDA Template](https://github.com/b4tyr4li/python-eda-template)
+- [Northwind SQL + Power BI Dashboard](https://github.com/YOUR_USERNAME/sql-data-exploration)
+  
 
 📫 Reach me: batyrbazar04@gmail.com · [LinkedIn](https://www.linkedin.com/in/batyrali-bazar-a28678333)
