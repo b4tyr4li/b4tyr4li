@@ -2,7 +2,7 @@
 
 **Data Analytics student (Big Data & Coding)** focused on Python, SQL, and Power BI. I enjoy turning messy datasets into clear insights and dashboards.
 
-- 🔭 Currently building: SQL exploration & Python EDA projects
+- 🔭 Currently building: Automated Sales Reporting with Excel + Tableau
 - 📊 Tools: Python (Pandas, NumPy, Plotly), SQL (MySQL/SQLite), Power BI, Excel (VBA)
 - 🧠 Interests: predictive modeling, BI storytelling, automation
 - 🎯 Goal: Data Analytics Internship in Warsaw (or remote) by Sep 2025
