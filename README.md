@@ -8,8 +8,8 @@
 
 **Featured projects**
 - [Global Water Consumption Analysis](https://github.com/b4tyr4li/water-consumption-analysis)
-- [Northwind SQL + Power BI Dashboard](https://github.com/YOUR_USERNAME/sql-data-exploration)
+- [Northwind SQL + Power BI Dashboard](https://github.com/b4tyr4li/sql-data-exploration)
 - [Automated Sales Reporting with Excel VBA](https://github.com/b4tyr4li/excel-vba-automation)
-  
+- [No-Show Appointments Analyzis (Python)](https://github.com/b4tyr4li/excel-vba-automation)  
 
 📫 Reach me: batyrbazar04@gmail.com · [LinkedIn](https://www.linkedin.com/in/batyrali-bazar-a28678333)
